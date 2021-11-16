@@ -58,7 +58,7 @@ activateListeners(html) {
 
     if (pack == null) {
         // Create a new compendium
-        await Compendium.create({
+        new Compendium({
             name: `critterdb-${bestiary}`,
             label: `CritterDB - ${bestiary}`,
             collection: `critterdb-${bestiary}`,
