@@ -16,7 +16,7 @@
     ],
     "version": "1.0.5",
     "minimumCoreVersion": "0.6.6",
-    "compatibleCoreVersion": "0.7.9",
+    "compatibleCoreVersion": "0.8.9",
     "system": "dnd5e",
     "styles": [
       "styles/style.css"
